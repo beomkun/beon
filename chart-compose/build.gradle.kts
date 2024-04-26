@@ -33,6 +33,28 @@ android {
     }
 }
 
+afterEvaluate {
+    publishing {
+        publications {
+            create<MavenPublication>("release") {
+                from(components["release"])
+
+                groupId = "com.github.beomkun"
+                artifactId = "beon-chart"
+                version = "0.0.4"
+            }
+
+            create<MavenPublication>("debug") {
+                from(components["debug"])
+
+                groupId = "com.github.beomkun"
+                artifactId = "beon-chart"
+                version = "0.0.4"
+            }
+        }
+    }
+}
+
 dependencies {
 
     implementation(libs.androidx.core.ktx)
