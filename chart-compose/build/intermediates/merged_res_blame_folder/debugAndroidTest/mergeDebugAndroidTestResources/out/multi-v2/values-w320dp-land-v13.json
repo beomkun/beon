@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "org.bmsk.beonchart.chart.test.chart-compose-mergeDebugAndroidTestResources-29:/values-w320dp-land-v13/values-w320dp-land-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/deepmedi/.gradle/caches/transforms-3/28de0d0d250f91e1ef7bb3d8c2521d6f/transformed/material-1.11.0/res/values-w320dp-land-v13/values-w320dp-land-v13.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,110",
+                        "endColumns": "54,61",
+                        "endOffsets": "105,167"
+                    }
+                }
+            ]
+        }
+    ]
+}
