@@ -1,16 +1,16 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/deepmedi/Desktop/bmsk/beonchart/chart-compose/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest1950288789770130133.xml:2:13-83
-INJECTED from /Users/deepmedi/Desktop/bmsk/beonchart/chart-compose/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest1950288789770130133.xml:2:13-83
+ADDED from /Users/deepmedi/Desktop/bmsk/beonchart/chart-compose/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest8862181735272457947.xml:2:13-83
+INJECTED from /Users/deepmedi/Desktop/bmsk/beonchart/chart-compose/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest8862181735272457947.xml:2:13-83
 	package
-		INJECTED from /Users/deepmedi/Desktop/bmsk/beonchart/chart-compose/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest1950288789770130133.xml
+		INJECTED from /Users/deepmedi/Desktop/bmsk/beonchart/chart-compose/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest8862181735272457947.xml
 	xmlns:android
-		ADDED from /Users/deepmedi/Desktop/bmsk/beonchart/chart-compose/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest1950288789770130133.xml:2:23-81
+		ADDED from /Users/deepmedi/Desktop/bmsk/beonchart/chart-compose/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest8862181735272457947.xml:2:23-81
 uses-sdk
-INJECTED from /Users/deepmedi/Desktop/bmsk/beonchart/chart-compose/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest1950288789770130133.xml reason: use-sdk injection requested
-INJECTED from /Users/deepmedi/Desktop/bmsk/beonchart/chart-compose/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest1950288789770130133.xml
-INJECTED from /Users/deepmedi/Desktop/bmsk/beonchart/chart-compose/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest1950288789770130133.xml
+INJECTED from /Users/deepmedi/Desktop/bmsk/beonchart/chart-compose/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest8862181735272457947.xml reason: use-sdk injection requested
+INJECTED from /Users/deepmedi/Desktop/bmsk/beonchart/chart-compose/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest8862181735272457947.xml
+INJECTED from /Users/deepmedi/Desktop/bmsk/beonchart/chart-compose/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest8862181735272457947.xml
 	android:targetSdkVersion
-		INJECTED from /Users/deepmedi/Desktop/bmsk/beonchart/chart-compose/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest1950288789770130133.xml
+		INJECTED from /Users/deepmedi/Desktop/bmsk/beonchart/chart-compose/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest8862181735272457947.xml
 	android:minSdkVersion
-		INJECTED from /Users/deepmedi/Desktop/bmsk/beonchart/chart-compose/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest1950288789770130133.xml
+		INJECTED from /Users/deepmedi/Desktop/bmsk/beonchart/chart-compose/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest8862181735272457947.xml
